@@ -27,7 +27,7 @@
                                     <constraint firstAttribute="width" constant="107" id="N8r-p6-EvX"/>
                                     <constraint firstAttribute="height" constant="71" id="vKS-kS-c2m"/>
                                 </constraints>
-                                <state key="normal" image="rampIcon"/>
+                                <state key="normal" image="addIcon-Round"/>
                                 <connections>
                                     <action selector="stuffButtonPressed:" destination="BV1-FR-VrT" eventType="touchUpInside" id="4Il-rs-R6z"/>
                                 </connections>
@@ -53,6 +53,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="rampIcon" width="107" height="71"/>
+        <image name="addIcon-Round" width="26" height="26"/>
     </resources>
 </document>
